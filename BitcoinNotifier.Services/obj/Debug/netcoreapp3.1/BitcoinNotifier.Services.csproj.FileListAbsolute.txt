@@ -1,0 +1,17 @@
+C:\Users\dfern\source\repos\BitCoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.csproj.CoreCompileInputs.cache
+C:\Users\dfern\source\repos\BitCoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.AssemblyInfoInputs.cache
+C:\Users\dfern\source\repos\BitCoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.AssemblyInfo.cs
+C:\Users\dfern\source\repos\BitCoinNotifier\BitcoinNotifier.Services\bin\Debug\netcoreapp3.1\BitcoinNotifier.Services.deps.json
+C:\Users\dfern\source\repos\BitCoinNotifier\BitcoinNotifier.Services\bin\Debug\netcoreapp3.1\BitcoinNotifier.Services.dll
+C:\Users\dfern\source\repos\BitCoinNotifier\BitcoinNotifier.Services\bin\Debug\netcoreapp3.1\BitcoinNotifier.Services.pdb
+C:\Users\dfern\source\repos\BitCoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.dll
+C:\Users\dfern\source\repos\BitCoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.pdb
+D:\Repositories\BitcoinNotifier\BitcoinNotifier.Services\bin\Debug\netcoreapp3.1\BitcoinNotifier.Services.deps.json
+D:\Repositories\BitcoinNotifier\BitcoinNotifier.Services\bin\Debug\netcoreapp3.1\BitcoinNotifier.Services.dll
+D:\Repositories\BitcoinNotifier\BitcoinNotifier.Services\bin\Debug\netcoreapp3.1\BitcoinNotifier.Services.pdb
+D:\Repositories\BitcoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.csprojAssemblyReference.cache
+D:\Repositories\BitcoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.csproj.CoreCompileInputs.cache
+D:\Repositories\BitcoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.AssemblyInfoInputs.cache
+D:\Repositories\BitcoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.AssemblyInfo.cs
+D:\Repositories\BitcoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.dll
+D:\Repositories\BitcoinNotifier\BitcoinNotifier.Services\obj\Debug\netcoreapp3.1\BitcoinNotifier.Services.pdb

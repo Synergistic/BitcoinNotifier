@@ -1,0 +1,10 @@
+C:\Users\dfern\source\repos\BitCoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.csprojAssemblyReference.cache
+C:\Users\dfern\source\repos\BitCoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.csproj.CoreCompileInputs.cache
+C:\Users\dfern\source\repos\BitCoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dfern\source\repos\BitCoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.AssemblyInfoInputs.cache
+C:\Users\dfern\source\repos\BitCoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.AssemblyInfo.cs
+D:\Repositories\BitcoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.csprojAssemblyReference.cache
+D:\Repositories\BitcoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.csproj.CoreCompileInputs.cache
+D:\Repositories\BitcoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositories\BitcoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.AssemblyInfoInputs.cache
+D:\Repositories\BitcoinNotifier\BitCoinNotifier\obj\Debug\netcoreapp3.1\BitcoinNotifier.AssemblyInfo.cs
