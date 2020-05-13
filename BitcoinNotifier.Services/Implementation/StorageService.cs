@@ -46,6 +46,7 @@ namespace BitcoinNotifier.Services.Implementation
             TableOperation operation = TableOperation.InsertOrMerge(newEntity);
             await table.ExecuteAsync(operation);
         }
+
         public async Task<PriceEntity> GetPrice(string name)
         {
             var table = AuthTable("Prices");
@@ -80,5 +81,6 @@ namespace BitcoinNotifier.Services.Implementation
             }
             return null;
         }
+
     }
 }

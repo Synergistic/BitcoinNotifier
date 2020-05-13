@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
+using BitcoinNotifier.Models.Types;
 using BitcoinNotifier.Services.Interface;
-using BitcoinNotifier.Services.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BitcoinNotifier.Controllers

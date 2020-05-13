@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinNotifier", "BitCoinNotifier\BitcoinNotifier.csproj", "{FF6A65DB-C004-481A-9C27-E519C00A6E6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitcoinNotifier", "BitCoinNotifier\BitcoinNotifier.csproj", "{FF6A65DB-C004-481A-9C27-E519C00A6E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceChecker", "PriceChecker\PriceChecker.csproj", "{0B6C5A76-7FB0-45A3-A457-799E0082AC39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriceChecker", "PriceChecker\PriceChecker.csproj", "{0B6C5A76-7FB0-45A3-A457-799E0082AC39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinNotifier.Services", "BitcoinNotifier.Services\BitcoinNotifier.Services.csproj", "{4BA2FA12-3045-47BD-B9D8-023CD8FD7F8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitcoinNotifier.Services", "BitcoinNotifier.Services\BitcoinNotifier.Services.csproj", "{4BA2FA12-3045-47BD-B9D8-023CD8FD7F8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

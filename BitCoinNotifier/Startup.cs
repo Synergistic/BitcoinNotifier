@@ -21,6 +21,7 @@ namespace BitcoinNotifier
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddCors();
             services.RegisterAssemblyPublicNonGenericClasses(typeof(IBitcoinIntegrationService).Assembly)
                 .Where(x => x.Name.EndsWith("Service"))
                 .AsPublicImplementedInterfaces();
@@ -28,6 +29,12 @@ namespace BitcoinNotifier
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseCors(
+                options => options.WithOrigins("http://localhost", "http://localhost:3000", "http://synergistic.github.io")
+                .AllowAnyMethod()
+                .AllowAnyOrigin()
+                .AllowAnyHeader()
+            );
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
